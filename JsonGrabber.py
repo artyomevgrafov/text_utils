@@ -1,9 +1,9 @@
-# textutils/json_extractor.py
+# textutils/JsonGrabber.py
 
 import re
 import json
 
-def extract_json_from_string(text):
+def JsonGrabber(text):
     """
     Функция для извлечения всех JSON-объектов из строки.
     

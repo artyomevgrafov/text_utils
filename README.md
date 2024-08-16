@@ -1,8 +1,4 @@
-# My Text Utils
+# JsonGrabber
 
-This is a simple Python library for extracting JSON objects from text strings.
+`JsonGrabber` - это простая библиотека Python для извлечения JSON из текстовых строк.
 
-## Installation
-
-```bash
-pip install .
